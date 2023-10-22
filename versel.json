@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      {
+        "source": "/https://task4front-5z2bzjh8w-vlads-projects-7d4b6418.vercel.app/task4itra-79347c494a8d.herokuapp.com/task4itra-79347c494a8d.herokuapp.com/:path*",
+        "destination": "https://task4itra-79347c494a8d.herokuapp.com"
+      }
+    ]
+  }
